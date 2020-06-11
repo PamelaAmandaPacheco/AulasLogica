@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Professor
+comment1.params=
+comment1.target=Professor()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=int\ getNumeroRegistro()
+comment3.params=numeroRegistro
+comment3.target=void\ setNumeroRegistro(int)
+comment4.params=
+comment4.target=double\ getNumeroHorasTrab()
+comment5.params=numeroHorasTrab
+comment5.target=void\ setNumeroHorasTrab(double)
+comment6.params=
+comment6.target=double\ getValorHora()
+comment7.params=valorHora
+comment7.target=void\ setValorHora(double)
+comment8.params=
+comment8.target=double\ calcularSalarioBruto()
+comment9.params=
+comment9.target=double\ calcularFGTS()
+numComments=11
