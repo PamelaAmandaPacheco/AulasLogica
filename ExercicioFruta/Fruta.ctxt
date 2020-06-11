@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Fruta
+comment1.params=
+comment1.target=Fruta()
+comment2.params=
+comment2.target=java.lang.String\ getCor()
+comment3.params=cor
+comment3.target=void\ setCor(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ comer()
+comment5.params=
+comment5.target=java.lang.String\ retirarCasca()
+numComments=6
