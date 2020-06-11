@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment1.params=
+comment1.target=double\ getValor1()
+comment2.params=valor1
+comment2.target=void\ setValor1(double)
+comment3.params=
+comment3.target=double\ getValor2()
+comment4.params=valor2
+comment4.target=void\ setValor2(double)
+comment5.params=
+comment5.target=double\ getValor3()
+comment6.params=valor3
+comment6.target=void\ setValor3(double)
+comment7.params=
+comment7.target=double\ calcularValorNumeros()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
