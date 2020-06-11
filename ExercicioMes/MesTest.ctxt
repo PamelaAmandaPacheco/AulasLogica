@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MesTest
+comment0.text=\r\n\ A\ classe\ de\ teste\ MesTest.\r\n\ @author\ \ Pamela\ Pacheco\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=MesTest()
+comment2.params=
+comment2.target=void\ testSetDia()
+comment3.params=
+comment3.target=void\ testGetDia()
+comment4.params=
+comment4.target=void\ testVerificarDia()
+numComments=5
