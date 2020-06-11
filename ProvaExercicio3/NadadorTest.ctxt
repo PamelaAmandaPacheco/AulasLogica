@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=NadadorTest
+comment0.text=\r\n\ @author\ \ Pamela\ Pacheco\ /\ Josimar\r\n\ @version\ 1.0\r\n\ @since\ 01/06/2020\ 08\:55\r\n\ @category\ Model\r\n
+comment1.params=
+comment1.target=NadadorTest()
+comment1.text=\r\n\ Construtor\ default\ para\ a\ classe\ de\ teste\ NadadorTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Chamado\ antes\ de\ cada\ m\u00E9todo\ de\ caso\ de\ teste.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Chamado\ ap\u00F3s\ cada\ m\u00E9todo\ de\ teste\ de\ caso.\r\n
+comment4.params=
+comment4.target=void\ testSetIdade()
+comment4.text=\r\n\ Teste\ para\ verificar\ a\ idade\r\n
+comment5.params=
+comment5.target=void\ testGetIdade()
+comment6.params=
+comment6.target=void\ testSetNome()
+comment6.text=\r\n\ Teste\ para\ verificar\ o\ nome\r\n
+comment7.params=
+comment7.target=void\ testGetNome()
+comment8.params=
+comment8.target=void\ testVerificarCategoria()
+comment8.text=\r\n\ Teste\ para\ verificar\ a\ categoria\ conforme\ a\ idade\r\n
+numComments=9
