@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PessoaJuridica
+comment1.params=
+comment1.target=PessoaJuridica()
+comment10.params=
+comment10.target=double\ getCapitalInicial()
+comment11.params=capitalInicial
+comment11.target=void\ setCapitalInicial(double)
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getRazaoSocial()
+comment3.params=razaoSocial
+comment3.target=void\ setRazaoSocial(java.lang.String)
+comment4.params=
+comment4.target=int\ getCNPJ()
+comment5.params=CNPJ
+comment5.target=void\ setCNPJ(int)
+comment6.params=
+comment6.target=int\ getInscricao()
+comment7.params=inscricao
+comment7.target=void\ setInscricao(int)
+comment8.params=
+comment8.target=int\ getEstadual()
+comment9.params=estadual
+comment9.target=void\ setEstadual(int)
+numComments=13

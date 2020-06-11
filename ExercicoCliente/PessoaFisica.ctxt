@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PessoaFisica
+comment1.params=
+comment1.target=PessoaFisica()
+comment2.params=
+comment2.target=java.lang.String\ getEstadoCivil()
+comment3.params=estadoCivil
+comment3.target=void\ setEstadoCivil(java.lang.String)
+comment4.params=
+comment4.target=int\ getCPF()
+comment5.params=CPF
+comment5.target=void\ setCPF(int)
+comment6.params=
+comment6.target=java.lang.String\ getDataNasc()
+comment7.params=dataNasc
+comment7.target=void\ setDataNasc(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

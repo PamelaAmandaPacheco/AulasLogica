@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=
+comment1.target=Cliente()
+comment2.params=
+comment2.target=int\ getCodigoCliente()
+comment3.params=codigoCliente
+comment3.target=void\ setCodigoCliente(int)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getProfissao()
+comment7.params=profissao
+comment7.target=void\ setProfissao(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
