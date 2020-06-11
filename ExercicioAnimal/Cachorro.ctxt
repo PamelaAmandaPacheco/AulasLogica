@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Cachorro
+comment1.params=
+comment1.target=Cachorro()
+comment10.params=
+comment10.target=double\ calcularPeso()
+comment11.params=
+comment11.target=double\ calcularIMC()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=double\ getAltura()
+comment3.params=altura
+comment3.target=void\ setAltura(double)
+comment4.params=
+comment4.target=java.lang.String\ getCor()
+comment5.params=cor
+comment5.target=void\ setCor(java.lang.String)
+comment6.params=
+comment6.target=int\ getIdadeSemanas()
+comment7.params=idadeSemanas
+comment7.target=void\ setIdadeSemanas(int)
+comment8.params=
+comment8.target=double\ getPeso()
+comment9.params=peso
+comment9.target=void\ setPeso(double)
+numComments=13

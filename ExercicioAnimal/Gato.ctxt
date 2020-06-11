@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Gato
+comment1.params=
+comment1.target=Gato()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getRaca()
+comment3.params=raca
+comment3.target=void\ setRaca(java.lang.String)
+comment4.params=
+comment4.target=double\ getPeso()
+comment5.params=peso
+comment5.target=void\ setPeso(double)
+comment6.params=
+comment6.target=int\ getAnoNasc()
+comment7.params=anoNasc
+comment7.target=void\ setAnoNasc(int)
+comment8.params=
+comment8.target=int\ calcularIdade()
+comment9.params=
+comment9.target=double\ acrescentarQuinzePorCentoNoPeso()
+numComments=11
