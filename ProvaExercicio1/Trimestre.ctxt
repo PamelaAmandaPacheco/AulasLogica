@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Trimestre
+comment0.text=\r\n\ \r\n\ @author\ Pamela\ Pacheco\ /\ Josimar\ Lima\r\n\ @version\ 1.0\r\n\ @since\ 01/06/2020\r\n\ @category\ Model\r\n
+comment1.params=
+comment1.target=int\ getMes()
+comment2.params=mes
+comment2.target=void\ setMes(int)
+comment3.params=
+comment3.target=java.lang.String\ verificarMes()
+comment3.text=\r\n\ @return\ Retorna\ o\ trimestre\ de\ acordo\ com\ o\ mes\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
