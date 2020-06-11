@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Algoritmo
+comment1.params=
+comment1.target=double\ getBase()
+comment2.params=base
+comment2.target=void\ setBase(double)
+comment3.params=
+comment3.target=double\ getAltura()
+comment4.params=altura
+comment4.target=void\ setAltura(double)
+comment5.params=
+comment5.target=double\ calcularArea()
+comment6.params=
+comment6.target=double\ calcularPerimetro()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
